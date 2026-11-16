@@ -552,20 +552,6 @@ a {
     color: white
 }
 
-.portfolio-preview {
-    height: 130px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 10px
-}
-
-.portfolio-preview img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover
-}
-
 .portfolio-preview img:first-child {
     grid-row: span 2
 }
