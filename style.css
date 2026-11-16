@@ -553,7 +553,7 @@ a {
 }
 
 .portfolio-preview {
-    height: 360px;
+    height: 130px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
